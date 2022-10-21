@@ -11,7 +11,7 @@ output:
 
 ## About Me
 
-![](C:\bs_workspace\Sample111)
+![](Users\Samsung\Desktop\BS.jpg)
 
 Hello ! 
 
