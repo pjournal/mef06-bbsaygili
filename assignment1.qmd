@@ -1,12 +1,26 @@
 ---
-title: "Assignment 1"
-date: "2022-10-01"
+title: "**BDA-503 RMarkdown Assignment1**"
+author: "Bayram Saygili"
+highlight-style: pygments
+date: "2022-10-21"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 1
 ---
 
-This is a template example qmd output page. You may see an example R code below.
+## About Me
 
-```{r}
-set.seed(1)
-vec1 <- sample(LETTERS,5)
-paste0(vec1,collapse="")
-```
+Hello !
+
+My name is Bayram Saygili. Twelve years ago I graduated from civil engineering. I am currently working as an Project Specification Manager at Knauf, a German manufacturer of building materials.
+
+Due to my position, I have always collected various data with traditional methods(calling,e mail,visiting etc) and grouped them within the company in order to understand the needs of our customers for years. (This customer is working on interior design, the decision maker of this company is Mr. Ali. etc.)
+
+In the last few years, the construction industry will have understood how important data is, and it has been putting pressure on sales teams to actively use CRM programs such as Salesforce. In particular, the digital transformation process of the company I work for inspired me in data analysis / data interpretation.
+
+For this reason, I wanted to further my "data collection and interpretation" work that I have been doing for years on this subject. That's why I'm here :)
+
+Here is my [Linkedin](https://www.linkedin.com/in/bayram-sayg%C4%B1l%C4%B1-1a525045/) profile
+
+
