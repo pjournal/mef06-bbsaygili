@@ -11,6 +11,8 @@ output:
 
 ## About Me
 
+![](beginner.jpg)
+
 Hello ! 
 
 My name is Bayram Saygili. Twelve years ago I graduated from civil engineering. I am currently working as an Project Specification Manager at Knauf, a German manufacturer of building materials.
