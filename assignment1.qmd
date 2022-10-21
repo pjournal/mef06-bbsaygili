@@ -9,7 +9,7 @@ output:
     toc_depth: 1
 ---
 
-### About Me
+# About Me
 
 ![](beginner.jpg)
 
@@ -25,7 +25,7 @@ For this reason, I wanted to further my "data collection and interpretation" wor
 
 Here is my [Linkedin](https://www.linkedin.com/in/bayram-sayg%C4%B1l%C4%B1-1a525045/) profile
 
-## RStudio Global 2022 "Saving 1,000 hours with RStudio: selling R in your workplace"
+# RStudio Global 2022 "Saving 1,000 hours with RStudio: selling R in your workplace"
 
 Tiger Tang explains the steps of the automation project he started with R and the gains he gained at the end of the process. After completing the automation project, the company; 20+ R Users, 60+ R Business users and 12,000 hours of Manual Hours.
 
