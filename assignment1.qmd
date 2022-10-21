@@ -11,8 +11,6 @@ output:
 
 ## About Me
 
-![](C:\bs_workspace\mef06-bbsaygili)
-
 Hello ! 
 
 My name is Bayram Saygili. Twelve years ago I graduated from civil engineering. I am currently working as an Project Specification Manager at Knauf, a German manufacturer of building materials.
