@@ -11,7 +11,7 @@ output:
 
 ## About Me
 
-![](C:\bs_workspace)
+![](C:\bs_workspace\Sample111)
 
 Hello ! 
 
@@ -25,4 +25,29 @@ For this reason, I wanted to further my "data collection and interpretation" wor
 
 Here is my [Linkedin](https://www.linkedin.com/in/bayram-sayg%C4%B1l%C4%B1-1a525045/) profile
 
+## RStudio Global 2022 "Saving 1,000 hours with RStudio: selling R in your workplace"
 
+Tiger Tang explains the steps of the automation project he started with R and the gains he gained at the end of the process. After completing the automation project, the company; 20+ R Users, 60+ R Business users and 12,000 hours of Manual Hours.
+
+Here is the [link](https://www.rstudio.com/conference/2022/talks/saving-1000-hours-rstudio/).
+
+## Resource 1 - How to Learn R Programming ? 
+
+This article discusses what the R program is, what it is used for, which top companies use R, and what can be done in the world of data science using R.
+
+Here is the [link](https://www.simplilearn.com/how-to-learn-r-programming-article).
+
+
+## Resource 2 - R software: unfriendly but probably the best
+
+This article presents an overview of R from the beginning to the present. The R programming character is likened to a difficult friend.
+
+
+Here is the [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7063554/).
+
+
+## Resource 3 -The 5 Surprising Things You Can Do With R
+
+This article lays out what can be done with R, from data visualization to making statistical predictions.
+
+Here is the [link](https://www.kdnuggets.com/2022/08/5-surprising-things-r.html)
