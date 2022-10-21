@@ -9,9 +9,9 @@ output:
     toc_depth: 1
 ---
 
-## **About Me**
+## About Me
 
-![](Users\Samsung\Desktop\BS.jpg)
+![](C:\bs_workspace\mef06-bbsaygili)
 
 Hello ! 
 
@@ -31,14 +31,16 @@ Tiger Tang explains the steps of the automation project he started with R and th
 
 Here is the [link](https://www.rstudio.com/conference/2022/talks/saving-1000-hours-rstudio/).
 
-## Resource 1 - How to Learn R Programming ? 
+# R Some Related Posts
+
+### Resource 1 - How to Learn R Programming ? 
 
 This article discusses what the R program is, what it is used for, which top companies use R, and what can be done in the world of data science using R.
 
 Here is the [link](https://www.simplilearn.com/how-to-learn-r-programming-article).
 
 
-## Resource 2 - R software: unfriendly but probably the best
+### Resource 2 - R software: unfriendly but probably the best
 
 This article presents an overview of R from the beginning to the present. The R programming character is likened to a difficult friend.
 
@@ -46,7 +48,7 @@ This article presents an overview of R from the beginning to the present. The R 
 Here is the [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7063554/).
 
 
-## Resource 3 -The 5 Surprising Things You Can Do With R
+### Resource 3 -The 5 Surprising Things You Can Do With R
 
 This article lays out what can be done with R, from data visualization to making statistical predictions.
 
