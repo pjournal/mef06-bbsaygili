@@ -149,7 +149,7 @@
 
 \begin{document}
 \maketitle
-\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[sharp corners, breakable, borderline west={3pt}{0pt}{shadecolor}, boxrule=0pt, frame hidden, interior hidden, enhanced]}{\end{tcolorbox}}\fi
+\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[borderline west={3pt}{0pt}{shadecolor}, enhanced, frame hidden, sharp corners, breakable, interior hidden, boxrule=0pt]}{\end{tcolorbox}}\fi
 
 \renewcommand*\contentsname{Table of contents}
 {
@@ -163,6 +163,8 @@
 \chapter*{Introduction}\label{introduction}}
 \addcontentsline{toc}{chapter}{Introduction}
 
+\markboth{Introduction}{Introduction}
+
 This progress journal covers Bayram Saygili's work during their term at
 \href{https://mef-bda503.github.io/fall22/}{BDA 503 Fall 2022}.
 
@@ -173,11 +175,6 @@ Each section is an assignment or an individual work.
 \hypertarget{bda-503-rmarkdown-assignment1}{%
 \chapter{\texorpdfstring{\textbf{BDA-503 RMarkdown
 Assignment1}}{BDA-503 RMarkdown Assignment1}}\label{bda-503-rmarkdown-assignment1}}
-
-Bayram Saygili\\
-2022-10-21
-
-\hfill\break
 
 \includegraphics{./beginner.jpg}
 
@@ -257,6 +254,33 @@ to making statistical predictions.
 
 Here is the
 \href{https://www.kdnuggets.com/2022/08/5-surprising-things-r.html}{link}
+
+\bookmarksetup{startatroot}
+
+\hypertarget{or_assignment}{%
+\chapter{\texorpdfstring{\textbf{OR\_Assignment}}{OR\_Assignment}}\label{or_assignment}}
+
+Swiss energy company Alpiq wanted to optimize its short-term management
+of its hydroelectric power plants in order to improve efficiency and
+profitability. In order to achieve this, Alpiq needed a flexible and
+fast solution that could take into account the technical constraints of
+each plant, such as the number of available turbines and pumps, the
+number of hours each engine could run, and the volume of water in a dam.
+
+After testing a range of commercial and open-source solvers, Alpiq chose
+Gurobi Optimization due to its customization options, speed, and
+optimality. With Gurobi, Alpiq was able to optimize the performance of
+its pool of power plants by taking advantage of their synergies, and by
+better predicting the energy it needed to store and generate in the
+future.
+
+Alpiq also received support from the Gurobi team, which helped to ensure
+that the solver was set up correctly. In the future, Alpiq plans to use
+a solver to model various market processes and technical challenges in
+order to quickly respond to changing market conditions.
+
+Please review the case study from the
+\href{https://www.gurobi.com/wp-content/uploads/2022/08/CaseStudy-2021Dec-Alpiq_Eng.pdf?x58432}{link}.
 
 
 
