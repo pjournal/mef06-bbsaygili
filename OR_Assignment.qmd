@@ -13,7 +13,7 @@ execute:
 
 
 
-# Alpiq: Keeping Hydroelectric Power Flowing
+## Alpiq: Keeping Hydroelectric Power Flowing
 
 Swiss energy company Alpiq wanted to optimize its short-term management of its hydroelectric power plants in order to improve efficiency and profitability. In order to achieve this, Alpiq needed a flexible and fast solution that could take into account the technical constraints of each plant, such as the number of available turbines and pumps, the number of hours each engine could run, and the volume of water in a dam. 
 
