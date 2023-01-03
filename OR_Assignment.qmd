@@ -2,19 +2,26 @@
 title: "**OR_Assignment**"
 author: "Bayram Saygili"
 highlight-style: pygments
-date: "2022-10-21"
+date: "2023-01-04"
 output: 
   html_document:
     toc: true
     toc_depth: 1
+execute:
+ warning: false
 ---
 
+
+
+# Alpiq: Keeping Hydroelectric Power Flowing
 
 Swiss energy company Alpiq wanted to optimize its short-term management of its hydroelectric power plants in order to improve efficiency and profitability. In order to achieve this, Alpiq needed a flexible and fast solution that could take into account the technical constraints of each plant, such as the number of available turbines and pumps, the number of hours each engine could run, and the volume of water in a dam. 
 
 After testing a range of commercial and open-source solvers, Alpiq chose Gurobi Optimization due to its customization options, speed, and optimality. With Gurobi, Alpiq was able to optimize the performance of its pool of power plants by taking advantage of their synergies, and by better predicting the energy it needed to store and generate in the future. 
 
 Alpiq also received support from the Gurobi team, which helped to ensure that the solver was set up correctly. In the future, Alpiq plans to use a solver to model various market processes and technical challenges in order to quickly respond to changing market conditions.
+
+Please review the case study from the [link](https://www.gurobi.com/wp-content/uploads/2022/08/CaseStudy-2021Dec-Alpiq_Eng.pdf?x58432).
 
 
 
