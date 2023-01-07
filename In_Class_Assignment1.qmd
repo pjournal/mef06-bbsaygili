@@ -1,0 +1,43 @@
+---
+title: "**In Class Assignment **"
+author: "Bayram Saygili"
+highlight-style: pygments
+date: "2023-01-07"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 1
+execute:
+ warning: false
+---
+
+
+
+## Finding the 10 most popular aircraft models according to the number of aircraft produced by each model:
+
+```{r data_sort,message= FALSE}
+
+library(dplyr)
+
+nycflights13::planes %>%
+  group_by(manufacturer) %>%
+  summarise(num_planes = n()) %>%
+  arrange(desc(num_planes)) %>%
+  head(10)
+
+```
+
+
+## Finding the top 10 most popular models of planes based on the number of planes manufactured by each model:
+
+```{r}
+library(dplyr)
+
+nycflights13::planes %>%
+  group_by(model) %>%
+  summarise(num_planes = n()) %>%
+  arrange(desc(num_planes)) %>%
+  head(10)
+```
+
+  

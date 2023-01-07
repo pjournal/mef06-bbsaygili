@@ -8,6 +8,7 @@ book:
   chapters:
     - index.qmd
     - assignment1.qmd
+    - In_Class_Assignment1.qmd
     - OR_Assignment.qmd
   page-footer: 
     center: "[MEF BDA 503](https://mef-bda503.github.io)" 
@@ -18,4 +19,5 @@ format:
     theme: cosmo
   pdf:
     documentclass: scrreprt
+
 
